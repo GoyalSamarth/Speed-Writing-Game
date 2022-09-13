@@ -1,0 +1,80 @@
+.hide {
+    display: none;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aquamarine;
+    
+}
+
+#firstdiv{
+    background-color:orange;
+    width: 355px;
+    height: 230px;
+    padding: 160px;
+    margin: 65px;
+    border-radius: 20px;
+}
+#seconddiv{
+    
+    background-color: yellowgreen;
+    font-size: 2em;
+    position: relative;
+    top: -110px;
+    border-radius: 10px;
+}
+h1{
+    position: relative;
+    left: 18px;
+}
+#thirddiv{
+    background-color: yellowgreen;
+    position: relative;
+    border-radius: 10px;
+    font-size: 1.7em;
+    top: -130px;
+}
+#span{
+    position: relative;
+    left: 56px;
+    top: 15px;
+}
+#range{
+    position: relative;
+    left: 95px;
+    top: 20px;
+}
+#button{
+    font-size: 2em;
+    position: relative;
+    left: 120px;
+    top: -60px;
+    border-radius: 10px;
+    background-color: yellowgreen;
+}
+
+#ptag1{
+    font-size: 32px;
+    color: green;
+}
+#ptag2 {
+    font-size: 32px;
+    color: red;
+}
+#quote{
+    font-size: 1.5em;
+    background-color: orange;
+    border-radius: 10px;
+    
+}
+#textarea {
+    font-size: 1.5em;
+    border-radius: 10px;
+}
+
+
